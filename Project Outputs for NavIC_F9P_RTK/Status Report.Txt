@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [NavIC_F9P_RTK.PrjPcb]
+   Generated File[NavIC_PCB_Copper_Signal_Top.gbr]
+   Generated File[NavIC_PCB_Copper_Signal_1.gbr]
+   Generated File[NavIC_PCB_Copper_Signal_2.gbr]
+   Generated File[NavIC_PCB_Copper_Signal_3.gbr]
+   Generated File[NavIC_PCB_Copper_Signal_4.gbr]
+   Generated File[NavIC_PCB_Copper_Signal_Bot.gbr]
+   Generated File[NavIC_PCB_Legend_Top.gbr]
+   Generated File[NavIC_PCB_Legend_Bot.gbr]
+   Generated File[NavIC_PCB_Soldermask_Top.gbr]
+   Generated File[NavIC_PCB_Soldermask_Bot.gbr]
+   Generated File[NavIC_PCB_Paste_Top.gbr]
+   Generated File[NavIC_PCB_Paste_Bot.gbr]
+   Generated File[NavIC_PCB_Profile.gbr]
+   Generated File[NavIC_PCB_NPTH_Drill.gbr]
+   Generated File[NavIC_PCB_PTH_Drill.gbr]
+   Generated File[NavIC_PCB.EXTREP]
+   Generated File[NavIC_PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 8:51:31 PM On 6/4/2024

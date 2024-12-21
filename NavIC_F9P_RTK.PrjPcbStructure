@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Cover.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Cover.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Cover.SchDoc|FileName=Sensors.SchDoc|SheetNumber=3
