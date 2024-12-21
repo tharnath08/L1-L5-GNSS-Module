@@ -4,11 +4,11 @@
 
 3D CAD front:
 
-![3D Front](images/front.png)
+![3D Front](images/Front.png)
 
 3D CAD front:
 
-![3D Back](images/back.png)
+![3D Back](images/Back.png)
 
 PCB:
 
